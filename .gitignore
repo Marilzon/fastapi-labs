@@ -55,6 +55,7 @@ venv.bak/
 .idea/
 *.swp
 *.swo
+.ruff_cache
 
 # Poetry
 poetry.lock
